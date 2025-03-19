@@ -1,0 +1,26 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.13.23"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LelinZheng/Camp-Review.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LelinZheng/Camp-Review/issues"
+  },
+  "homepage": "https://github.com/LelinZheng/Camp-Review#readme"
+}
